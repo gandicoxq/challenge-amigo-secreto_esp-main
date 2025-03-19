@@ -40,8 +40,7 @@ El nombre sorteado aparecerá en la pantalla.
 
 
 ## 📝 Autor
-
-Hugo Hernan Avallay - Desarrollador Web
+Gandi Cox - Data Analyst Jr. / Desarrollador 
 
 📌 [LinkedIn](https://www.linkedin.com/in/gandicox/)
 
